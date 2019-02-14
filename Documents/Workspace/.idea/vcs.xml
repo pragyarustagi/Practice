@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/addons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/analyticstracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/availabledates" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/checkout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/default" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/memcachestats" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/navitaire" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operationutility" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/passengerservice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pubsub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reverseproxy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/search" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tuneinsurance" vcs="Git" />
+  </component>
+</project>
